@@ -1,0 +1,6 @@
+1;Saruman;Szula;5;
+2;Frodo;Baratfa;4;
+3;Aragorn;Kaposztas kert;10;
+4;Gandalf;Lovas;10;
+5;Samu;Szula;11;
+6;Smeagol;Malom telek;4;
